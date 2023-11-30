@@ -1,0 +1,36 @@
+#nav-links a,#logo-lg a,#logo-sm a{
+    text-decoration: none;
+    color:rgb(35, 46, 40);
+}
+
+.main-title{
+    color:rgb(43, 89, 110);
+    font-size: 30px;
+    text-decoration: none;
+}
+.secondary-title{
+    color:rgb(43, 89, 110);
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+/* Customize the scrollbar */
+::-webkit-scrollbar {
+width: 5px;
+}
+
+::-webkit-scrollbar-track {
+background: #f1f1f1; 
+}
+
+
+::-webkit-scrollbar-thumb {
+background: #888;
+border-radius: 6px;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+background: #555; 
+}
